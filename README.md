@@ -1,8 +1,8 @@
-# [Group name]
+# [GedeLogen]
 
 **Group members:**
 - A
-- B
+- Gustav Fabiansen
 - C
 
 **This repository contains:***
