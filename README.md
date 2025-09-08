@@ -3,7 +3,7 @@
 **Group members:**
 - A
 - Gustav Fabiansen
-- C
+- Hans Kristian Clausen
 
 **This repository contains:***
 
